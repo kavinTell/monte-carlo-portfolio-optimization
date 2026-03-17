@@ -129,16 +129,6 @@ The model produces a histogram of simulated portfolio returns with the VaR thres
 
 ---
 
-## Future Improvements
-
-* Expected return vs risk optimization (Efficient Frontier)
-* Conditional VaR (CVaR)
-* Non-normal return distributions (fat tails)
-* Multi-period VaR estimation
-* Backtesting VaR accuracy
-
----
-
 ## Author
 
 **Kavin Telkar**
